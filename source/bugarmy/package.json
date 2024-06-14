@@ -1,0 +1,24 @@
+{
+  "name": "bugarmy",
+  "version": "1.0.0",
+  "description": "Create a BUG army and disrupt the enemy's code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Volume-King-Stack/vk-npm.git"
+  },
+  "keywords": [
+    "bug",
+    "army",
+    "code"
+  ],
+  "author": "moobjj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Volume-King-Stack/vk-npm/issues"
+  },
+  "homepage": "https://github.com/Volume-King-Stack/vk-npm#readme"
+}
