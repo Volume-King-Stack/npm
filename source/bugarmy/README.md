@@ -9,7 +9,7 @@ npm install bugamry -g
 ```
 
 ```javascript
-import bugamry from 'bugamry'
+var { genBugArmy } = require('bugarmy');
 
-bugamry(16) // 🪲🪳🕷🐜🦟🪰
+genBugArmy(6) // 🪳🐞🦟🐌🪰🦂
 ```

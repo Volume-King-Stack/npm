@@ -1,6 +1,6 @@
 {
   "name": "bugarmy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create a BUG army and disrupt the enemy's code",
   "main": "index.js",
   "scripts": {
